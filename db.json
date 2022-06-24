@@ -1,0 +1,28 @@
+{
+  "getTimeStories": [
+   {
+    "name": "Business",
+    "url": "https://time.com/business",
+    "selection2": "Ads Are Officially Coming to Netflix. Here's What That Means for You",
+    "selection2_url": "https://time.com/6175837/netflix-ads-coming/"
+   },
+   {
+    "name": "Health",
+    "url": "https://time.com/health",
+    "selection2": "When Should You Use Home COVID-19 Tests? Here's What the Experts Say",
+    "selection2_url": "https://time.com/6190401/home-covid-19-tests-experts/"
+   },
+   {
+    "name": "LightBox",
+    "url": "https://time.com/lightbox",
+    "selection2": "The Messages That Hold Refugee Families Together",
+    "selection2_url": "https://time.com/4272666/refugees-stories-whatsapp/"
+   },
+   {
+    "name": "Politics",
+    "url": "https://time.com/politics",
+    "selection2": "The Senate Just Unveiled a New Bipartisan Gun Bill. Here's What's in It",
+    "selection2_url": "https://time.com/6189655/gun-safety-bill-whats-in-it/"
+   }
+  ]
+ }

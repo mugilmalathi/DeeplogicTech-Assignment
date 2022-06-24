@@ -24,5 +24,22 @@
     "selection2": "The Senate Just Unveiled a New Bipartisan Gun Bill. Here's What's in It",
     "selection2_url": "https://time.com/6189655/gun-safety-bill-whats-in-it/"
    }
-  ]
+  ],
+  "homenews": [
+    {
+     "name": "Summers Are Becoming Unbearably Hot Before They Even Start",
+     "url": "https://time.com/6190496/heat-waves-summer-2022-starting-early/",
+     "selection2": "June 23, 2022 • 4:54 PM EDT"
+    },
+    {
+     "name": "Coast Guard Rescues Record Number of Haitians",
+     "url": "https://time.com/6189923/haitian-migrants-coast-guard-rescue/",
+     "selection2": "June 23, 2022 • 5:55 PM EDT"
+    },
+    {
+     "name": "The Ocean Is Climate Change’s First Victim and Last Resort",
+     "url": "https://time.com/6190044/ocean-climate-change/",
+     "selection2": "June 23, 2022 • 7:00 AM EDT"
+    }
+   ]
  }
